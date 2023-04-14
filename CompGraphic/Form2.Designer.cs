@@ -87,15 +87,6 @@ namespace CompGraphic
             this.X_transfer_textbox.Size = new System.Drawing.Size(43, 22);
             this.X_transfer_textbox.TabIndex = 3;
             // 
-            // label1
-            // 
-            this.label1.Location = new System.Drawing.Point(1019, 781);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(21, 17);
-            this.label1.TabIndex = 4;
-            this.label1.Text = "X";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
             // Y_transfer_textbox
             // 
             this.Y_transfer_textbox.Location = new System.Drawing.Point(1070, 801);
