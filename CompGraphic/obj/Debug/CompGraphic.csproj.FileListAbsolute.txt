@@ -1,0 +1,12 @@
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\obj\Debug\CompGraphic.csproj.AssemblyReference.cache
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\obj\Debug\CompGraphic.csproj.SuggestedBindingRedirects.cache
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\obj\Debug\CompGraphic.Properties.Resources.resources
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\obj\Debug\CompGraphic.csproj.GenerateResource.cache
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\obj\Debug\CompGraphic.csproj.CoreCompileInputs.cache
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\bin\Debug\CompGraphic.exe.config
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\bin\Debug\CompGraphic.exe
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\bin\Debug\CompGraphic.pdb
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\obj\Debug\CompGraphic.exe
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\obj\Debug\CompGraphic.pdb
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\obj\Debug\CompGraphic.Circle.resources
+C:\Users\VladislavKPC\RiderProjects\CompGraphic\CompGraphic\obj\Debug\CompGraphic.Form2.resources
